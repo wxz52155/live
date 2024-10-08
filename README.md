@@ -19,7 +19,7 @@
 
 | 类 别  | 调用路径                                       | 最后更新   |
 |-------|------------------------------------------------|------------|
-| 📺电视  | [https://live.fanmingming.com/tv/{name}.png](https://github.com/fanmingming/live/tree/main/tv) | 2024.9.29    |
+| 📺电视  | [https://live.fanmingming.com/tv/{name}.png](https://github.com/fanmingming/live/tree/main/tv) | 2024.10.8    |
 | 📻广播  | [https://live.fanmingming.com/radio/{name}.png](https://github.com/fanmingming/live/tree/main/radio) | 2024.8.29   |
 
 ### ⛓️创建您的m3u订阅链接：
@@ -72,5 +72,5 @@
   - 如遇资源访问问题请通过Telegram反馈。
 
 ## 📔更新
-- 2024.9.29
-  - txt接口问题修复，新增晴彩系列频道Logo。
+- 2024.10.8
+  - 修复频道名称错误的问题。
